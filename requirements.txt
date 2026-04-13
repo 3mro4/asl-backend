@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+tensorflow==2.16.1
+mediapipe==0.10.14
+protobuf==4.25.3
+opencv-python-headless
+numpy
+websockets
+python-multipart

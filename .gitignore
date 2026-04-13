@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+*.pyc
+models/asl_bilstm_final.keras
+models/label_classes_lstm.npy
